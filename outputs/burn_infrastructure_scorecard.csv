@@ -1,0 +1,51 @@
+STATE,facilities,total_burn_beds,burn_adult_centers,burn_peds_centers,aba_verified_count,acs_verified_count,bc_designated_count,any_burn_verification_count,unverified_burn_beds,pct_burn_beds_in_verified,has_burn_infrastructure,peds_burn_coverage_gap,adult_burn_coverage_gap,has_unverified_burn_beds,full_gap_no_burn_beds,infrastructure_status
+AK,2,0.0,0,0,0,2,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+AL,6,52.0,2,1,0,1,0,0,52.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+AR,6,10.0,1,1,0,2,0,0,10.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+AZ,14,80.0,2,2,1,13,0,1,35.0,56.25,True,False,False,True,False,Risk: Unverified Burn Beds Present
+CA,62,140.0,12,11,11,57,13,13,0.0,100.0,True,False,False,False,False,Adequate
+CO,19,52.0,3,2,2,17,0,2,23.0,55.769230769230774,True,False,False,True,False,Risk: Unverified Burn Beds Present
+CT,12,9.0,1,0,1,11,1,1,0.0,100.0,True,True,False,False,False,Partial: Adult-Only Bed Access
+DC,4,41.0,1,1,1,4,2,2,0.0,100.0,True,False,False,False,False,Adequate
+DE,2,0.0,0,0,0,2,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+FL,36,85.0,6,2,5,13,6,6,0.0,100.0,True,False,False,False,False,Adequate
+GA,16,129.0,3,3,2,8,2,2,30.0,76.74418604651163,True,False,False,True,False,Risk: Unverified Burn Beds Present
+HI,3,7.0,1,1,0,2,0,0,7.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+IA,4,17.0,1,1,1,4,0,1,0.0,100.0,True,False,False,False,False,Adequate
+ID,4,15.0,1,1,0,4,0,0,15.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+IL,57,77.0,5,4,3,2,0,3,16.0,79.22077922077922,True,False,False,True,False,Risk: Unverified Burn Beds Present
+IN,9,41.0,3,3,2,9,0,2,16.0,60.97560975609756,True,False,False,True,False,Risk: Unverified Burn Beds Present
+KS,5,28.0,2,2,2,5,0,2,0.0,100.0,True,False,False,False,False,Adequate
+KY,4,16.0,1,0,0,4,0,0,16.0,0.0,True,True,False,True,False,Risk: Unverified Burn Beds Present
+LA,9,47.0,4,1,2,7,0,2,19.0,59.57446808510638,True,False,False,True,False,Risk: Unverified Burn Beds Present
+MA,11,52.0,2,1,3,10,0,3,0.0,100.0,True,False,False,False,False,Adequate
+MD,6,20.0,1,1,2,1,2,2,0.0,100.0,True,False,False,False,False,Adequate
+ME,2,6.0,1,0,0,2,0,0,6.0,0.0,True,True,False,True,False,Risk: Unverified Burn Beds Present
+MI,36,69.0,5,3,3,36,6,6,0.0,100.0,True,False,False,False,False,Adequate
+MN,11,50.0,3,3,2,10,0,2,15.0,70.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+MO,20,93.0,5,5,1,7,0,1,81.0,12.903225806451612,True,False,False,True,False,Risk: Unverified Burn Beds Present
+MS,4,0.0,0,0,0,0,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+MT,4,0.0,0,0,0,4,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+NC,9,60.0,2,2,2,8,0,2,0.0,100.0,True,False,False,False,False,Adequate
+ND,6,0.0,0,0,0,6,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+NE,7,16.0,1,1,1,4,1,1,0.0,100.0,True,False,False,False,False,Adequate
+NH,4,0.0,0,0,0,4,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+NJ,11,12.0,1,1,1,10,1,1,0.0,100.0,True,False,False,False,False,Adequate
+NM,1,10.0,1,1,0,1,0,0,10.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+NV,3,31.0,2,2,1,3,0,1,15.0,51.61290322580645,True,False,False,True,False,Risk: Unverified Burn Beds Present
+NY,36,143.0,10,7,3,36,10,10,0.0,100.0,True,False,False,False,False,Adequate
+OH,26,94.0,6,4,5,26,8,8,0.0,100.0,True,False,False,False,False,Adequate
+OK,3,33.0,2,1,0,2,2,2,0.0,100.0,True,False,False,False,False,Adequate
+OR,7,16.0,1,1,1,3,1,1,0.0,100.0,True,False,False,False,False,Adequate
+PA,36,83.0,6,3,6,0,0,6,0.0,100.0,True,False,False,False,False,Adequate
+RI,1,0.0,1,1,1,1,0,1,0.0,,False,False,False,False,True,Critical: No Burn Beds
+SC,8,25.0,1,1,0,7,0,0,25.0,0.0,True,False,False,True,False,Risk: Unverified Burn Beds Present
+SD,3,0.0,0,0,0,3,0,0,0.0,,False,True,True,False,True,Critical: No Burn Beds
+TN,8,51.0,3,2,1,5,0,1,37.0,27.450980392156865,True,False,False,True,False,Risk: Unverified Burn Beds Present
+TX,48,206.0,8,6,6,46,0,6,76.0,63.10679611650486,True,False,False,True,False,Risk: Unverified Burn Beds Present
+UT,8,15.0,1,1,1,8,0,1,0.0,100.0,True,False,False,False,False,Adequate
+VA,14,68.0,3,2,1,7,3,3,0.0,100.0,True,False,False,False,False,Adequate
+VT,1,9.0,1,0,0,1,0,0,9.0,0.0,True,True,False,True,False,Risk: Unverified Burn Beds Present
+WA,8,40.0,1,1,1,0,0,1,0.0,100.0,True,False,False,False,False,Adequate
+WI,14,28.0,2,3,1,13,0,1,17.0,39.285714285714285,True,False,False,True,False,Risk: Unverified Burn Beds Present
+WV,5,4.0,1,0,0,5,0,0,4.0,0.0,True,True,False,True,False,Risk: Unverified Burn Beds Present
