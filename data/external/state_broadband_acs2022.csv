@@ -1,0 +1,52 @@
+STATE,state_name,broadband_pct
+AK,Alaska,91.6
+AL,Alabama,87.4
+AR,Arkansas,86.8
+AZ,Arizona,91.1
+CA,California,93.4
+CO,Colorado,93.2
+CT,Connecticut,92.1
+DC,District of Columbia,92.8
+DE,Delaware,92.5
+FL,Florida,91.7
+GA,Georgia,91.2
+HI,Hawaii,91.3
+IA,Iowa,89.6
+ID,Idaho,92.1
+IL,Illinois,90.7
+IN,Indiana,90.1
+KS,Kansas,90.8
+KY,Kentucky,89.1
+LA,Louisiana,85.4
+MA,Massachusetts,92.9
+MD,Maryland,92.4
+ME,Maine,90.7
+MI,Michigan,90.5
+MN,Minnesota,92.0
+MO,Missouri,89.5
+MS,Mississippi,84.3
+MT,Montana,89.2
+NC,North Carolina,90.2
+ND,North Dakota,89.4
+NE,Nebraska,90.2
+NH,New Hampshire,93.9
+NJ,New Jersey,93.0
+NM,New Mexico,86.6
+NV,Nevada,91.5
+NY,New York,90.4
+OH,Ohio,90.4
+OK,Oklahoma,88.6
+OR,Oregon,92.4
+PA,Pennsylvania,89.9
+RI,Rhode Island,91.4
+SC,South Carolina,89.2
+SD,South Dakota,89.9
+TN,Tennessee,89.6
+TX,Texas,91.5
+UT,Utah,93.6
+VA,Virginia,90.9
+VT,Vermont,90.7
+WA,Washington,93.6
+WI,Wisconsin,90.6
+WV,West Virginia,86.4
+WY,Wyoming,89.5
